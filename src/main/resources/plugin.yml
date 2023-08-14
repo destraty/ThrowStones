@@ -1,0 +1,6 @@
+name: ThrowStones
+version: 1.0.0
+api-version: 1.20
+main: com.destrat.ThrowStones.Main
+author: destrat
+description: TODOO
